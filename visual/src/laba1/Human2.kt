@@ -1,7 +1,6 @@
 package laba1
 
 fun main() {
-    // Создаем массив людей с double позициями
     val humans = arrayOf(
         Human(1, 25.0, 1.5),
         Human(2, 30.0, 2.0),
@@ -11,7 +10,6 @@ fun main() {
         Human(6, 38.0, 2.4)
     )
 
-    // Параметры симуляции
     val simulationTime = 10.0
     val timeStep = 0.5
     val totalSteps = (simulationTime / timeStep).toInt()
@@ -20,12 +18,10 @@ fun main() {
     println("Общее время: $simulationTime сек, шаг: $timeStep сек")
     println("=" * 50)
 
-    // Начальные позиции
     println("Начальные позиции:")
     humans.forEach { it.displayInfo() }
     println("=" * 50)
 
-    // Основной цикл симуляции
     for (step in 1..totalSteps) {
         println("\nШаг $step (время: ${"%.1f".format(step * timeStep)} сек):")
         humans.forEach { it.move(timeStep) }
@@ -38,7 +34,6 @@ fun main() {
         }
     }
 
-    // Финальные позиции
     println("\n" + "=" * 50)
     println("Финальные позиции после симуляции:")
     humans.forEach { it.displayInfo() }
