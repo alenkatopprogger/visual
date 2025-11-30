@@ -1,4 +1,4 @@
-package laba2
+package laba1
 
 import kotlin.concurrent.thread
 
