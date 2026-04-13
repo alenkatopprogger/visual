@@ -1,5 +1,5 @@
-/mnt/c/Users/saaam/Desktop/study/visual2sem/vis2/build/CMakeFiles/imgui.dir
-/mnt/c/Users/saaam/Desktop/study/visual2sem/vis2/build/CMakeFiles/implot.dir
-/mnt/c/Users/saaam/Desktop/study/visual2sem/vis2/build/CMakeFiles/main.dir
-/mnt/c/Users/saaam/Desktop/study/visual2sem/vis2/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/saaam/Desktop/study/visual2sem/vis2/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/saaam/Desktop/study/vis/visual/4sem/build/CMakeFiles/imgui.dir
+/mnt/c/Users/saaam/Desktop/study/vis/visual/4sem/build/CMakeFiles/implot.dir
+/mnt/c/Users/saaam/Desktop/study/vis/visual/4sem/build/CMakeFiles/main.dir
+/mnt/c/Users/saaam/Desktop/study/vis/visual/4sem/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/saaam/Desktop/study/vis/visual/4sem/build/CMakeFiles/rebuild_cache.dir

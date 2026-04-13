@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Карточка настроек сервера -->
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        app:cardElevation="4dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Server Settings"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:layout_marginBottom="12dp" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Server IP Address"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/etServerIp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="192.168.1.100"
+                    android:inputType="phone" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Server Port"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                android:layout_marginTop="8dp">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/etServerPort"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="7777"
+                    android:inputType="number" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="12dp">
+
+                <Button
+                    android:id="@+id/btnConnect"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Connect"
+                    android:layout_marginEnd="8dp" />
+
+                <Button
+                    android:id="@+id/btnDisconnect"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Disconnect"
+                    android:enabled="false" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tvConnectionStatus"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:text="Status: Disconnected"
+                android:textSize="14sp"
+                android:gravity="center"
+                android:textColor="@android:color/holo_red_dark" />
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+
+    <!-- Кнопка получения данных -->
+    <Button
+        android:id="@+id/btnGetLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Get Location and Cell Info"
+        android:textSize="16sp"
+        android:padding="12dp" />
+
+    <!-- Статус отправки -->
+    <TextView
+        android:id="@+id/tvFile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text=""
+        android:textSize="12sp"
+        android:textColor="@android:color/holo_green_dark"
+        android:padding="8dp" />
+
+    <!-- ScrollView для отображения данных -->
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginTop="16dp"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvResult"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Press button to get location and cell information"
+                android:textSize="14sp"
+                android:fontFamily="monospace"
+                android:padding="12dp"
+                android:background="@android:color/darker_gray"
+                android:textColor="@android:color/white" />
+
+            <TextView
+                android:id="@+id/tvCellInfo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textSize="12sp"
+                android:fontFamily="monospace"
+                android:padding="12dp"
+                android:layout_marginTop="8dp"
+                android:background="@android:color/black"
+                android:textColor="@android:color/white" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

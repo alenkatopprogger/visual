@@ -1,0 +1,5634 @@
+[
+  {
+    "counter": 1,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058246381
+    },
+    "timestamp": "2026-04-13T12:30:47"
+  },
+  {
+    "counter": 1,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058248863
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 2,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058253873
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 3,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058258895
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 4,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058263903
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 5,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058268909
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 6,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058273915
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 7,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058278923
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 8,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058283932
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 9,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058288942
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 10,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058293951
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 11,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058298956
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 12,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058303966
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 13,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058308972
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 14,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058313978
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 15,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058318986
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 16,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058323992
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 17,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058329000
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 18,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058334006
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 19,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058339012
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 20,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058344017
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 21,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058349026
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 22,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058354032
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 23,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058359062
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 24,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058364069
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 25,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058369074
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 26,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058374081
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 27,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058379087
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 28,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058384093
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 29,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058389100
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 30,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058394105
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 31,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058399131
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 32,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058404142
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 33,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058409152
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 34,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058414160
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 35,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058419172
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 36,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "timestamp": 1776058424183
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 37,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058429210
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 38,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058434224
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 39,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058439239
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 40,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058444250
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 41,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058449302
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 42,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058454311
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 43,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058459316
+    },
+    "timestamp": "2026-04-13T12:34:22"
+  },
+  {
+    "counter": 44,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058464326
+    },
+    "timestamp": "2026-04-13T12:34:25"
+  },
+  {
+    "counter": 45,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058469344
+    },
+    "timestamp": "2026-04-13T12:34:30"
+  },
+  {
+    "counter": 46,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058474350
+    },
+    "timestamp": "2026-04-13T12:34:35"
+  },
+  {
+    "counter": 47,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058479358
+    },
+    "timestamp": "2026-04-13T12:34:40"
+  },
+  {
+    "counter": 48,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058484365
+    },
+    "timestamp": "2026-04-13T12:34:45"
+  },
+  {
+    "counter": 49,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058489372
+    },
+    "timestamp": "2026-04-13T12:34:50"
+  },
+  {
+    "counter": 50,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058494379
+    },
+    "timestamp": "2026-04-13T12:34:55"
+  },
+  {
+    "counter": 51,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058499389
+    },
+    "timestamp": "2026-04-13T12:35:00"
+  },
+  {
+    "counter": 52,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058504399
+    },
+    "timestamp": "2026-04-13T12:35:05"
+  },
+  {
+    "counter": 53,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058509410
+    },
+    "timestamp": "2026-04-13T12:35:10"
+  },
+  {
+    "counter": 54,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058514419
+    },
+    "timestamp": "2026-04-13T12:35:15"
+  },
+  {
+    "counter": 55,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058519425
+    },
+    "timestamp": "2026-04-13T12:35:20"
+  },
+  {
+    "counter": 56,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058524457
+    },
+    "timestamp": "2026-04-13T12:35:25"
+  },
+  {
+    "counter": 57,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058529466
+    },
+    "timestamp": "2026-04-13T12:35:30"
+  },
+  {
+    "counter": 58,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058534473
+    },
+    "timestamp": "2026-04-13T12:35:35"
+  },
+  {
+    "counter": 59,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058539488
+    },
+    "timestamp": "2026-04-13T12:35:40"
+  },
+  {
+    "counter": 60,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058544499
+    },
+    "timestamp": "2026-04-13T12:35:45"
+  },
+  {
+    "counter": 61,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058549508
+    },
+    "timestamp": "2026-04-13T12:35:50"
+  },
+  {
+    "counter": 62,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058554519
+    },
+    "timestamp": "2026-04-13T12:35:55"
+  },
+  {
+    "counter": 63,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058559530
+    },
+    "timestamp": "2026-04-13T12:36:00"
+  },
+  {
+    "counter": 64,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058564539
+    },
+    "timestamp": "2026-04-13T12:36:05"
+  },
+  {
+    "counter": 65,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058569547
+    },
+    "timestamp": "2026-04-13T12:36:10"
+  },
+  {
+    "counter": 66,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058574560
+    },
+    "timestamp": "2026-04-13T12:36:15"
+  },
+  {
+    "counter": 67,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058579569
+    },
+    "timestamp": "2026-04-13T12:36:20"
+  },
+  {
+    "counter": 68,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058584577
+    },
+    "timestamp": "2026-04-13T12:36:25"
+  },
+  {
+    "counter": 69,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058589584
+    },
+    "timestamp": "2026-04-13T12:36:30"
+  },
+  {
+    "counter": 70,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058594601
+    },
+    "timestamp": "2026-04-13T12:36:35"
+  },
+  {
+    "counter": 71,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058599614
+    },
+    "timestamp": "2026-04-13T12:36:40"
+  },
+  {
+    "counter": 72,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058604622
+    },
+    "timestamp": "2026-04-13T12:36:45"
+  },
+  {
+    "counter": 73,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058609660
+    },
+    "timestamp": "2026-04-13T12:36:50"
+  },
+  {
+    "counter": 74,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058614670
+    },
+    "timestamp": "2026-04-13T12:36:55"
+  },
+  {
+    "counter": 75,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058619681
+    },
+    "timestamp": "2026-04-13T12:37:00"
+  },
+  {
+    "counter": 76,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058624687
+    },
+    "timestamp": "2026-04-13T12:37:05"
+  },
+  {
+    "counter": 77,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058629695
+    },
+    "timestamp": "2026-04-13T12:37:10"
+  },
+  {
+    "counter": 78,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058634702
+    },
+    "timestamp": "2026-04-13T12:37:15"
+  },
+  {
+    "counter": 79,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058639712
+    },
+    "timestamp": "2026-04-13T12:37:20"
+  },
+  {
+    "counter": 80,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058644717
+    },
+    "timestamp": "2026-04-13T12:37:25"
+  },
+  {
+    "counter": 81,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058649725
+    },
+    "timestamp": "2026-04-13T12:37:30"
+  },
+  {
+    "counter": 82,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058654734
+    },
+    "timestamp": "2026-04-13T12:37:35"
+  },
+  {
+    "counter": 83,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058659744
+    },
+    "timestamp": "2026-04-13T12:37:40"
+  },
+  {
+    "counter": 84,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058664751
+    },
+    "timestamp": "2026-04-13T12:37:45"
+  },
+  {
+    "counter": 85,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058669761
+    },
+    "timestamp": "2026-04-13T12:37:50"
+  },
+  {
+    "counter": 86,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058674771
+    },
+    "timestamp": "2026-04-13T12:37:55"
+  },
+  {
+    "counter": 87,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058679780
+    },
+    "timestamp": "2026-04-13T12:38:00"
+  },
+  {
+    "counter": 88,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058684786
+    },
+    "timestamp": "2026-04-13T12:38:05"
+  },
+  {
+    "counter": 89,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058689806
+    },
+    "timestamp": "2026-04-13T12:38:10"
+  },
+  {
+    "counter": 90,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058694840
+    },
+    "timestamp": "2026-04-13T12:38:15"
+  },
+  {
+    "counter": 91,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058699849
+    },
+    "timestamp": "2026-04-13T12:38:20"
+  },
+  {
+    "counter": 92,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058704858
+    },
+    "timestamp": "2026-04-13T12:38:25"
+  },
+  {
+    "counter": 93,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058709866
+    },
+    "timestamp": "2026-04-13T12:38:30"
+  },
+  {
+    "counter": 94,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058714875
+    },
+    "timestamp": "2026-04-13T12:38:35"
+  },
+  {
+    "counter": 95,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058719883
+    },
+    "timestamp": "2026-04-13T12:38:40"
+  },
+  {
+    "counter": 96,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058724894
+    },
+    "timestamp": "2026-04-13T12:38:45"
+  },
+  {
+    "counter": 97,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058729904
+    },
+    "timestamp": "2026-04-13T12:38:50"
+  },
+  {
+    "counter": 98,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058734911
+    },
+    "timestamp": "2026-04-13T12:38:55"
+  },
+  {
+    "counter": 99,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058739917
+    },
+    "timestamp": "2026-04-13T12:39:00"
+  },
+  {
+    "counter": 100,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058744931
+    },
+    "timestamp": "2026-04-13T12:39:05"
+  },
+  {
+    "counter": 101,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058749946
+    },
+    "timestamp": "2026-04-13T12:39:10"
+  },
+  {
+    "counter": 102,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058754957
+    },
+    "timestamp": "2026-04-13T12:39:15"
+  },
+  {
+    "counter": 103,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058759964
+    },
+    "timestamp": "2026-04-13T12:39:20"
+  },
+  {
+    "counter": 104,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058764970
+    },
+    "timestamp": "2026-04-13T12:39:25"
+  },
+  {
+    "counter": 105,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058769979
+    },
+    "timestamp": "2026-04-13T12:39:30"
+  },
+  {
+    "counter": 106,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058774989
+    },
+    "timestamp": "2026-04-13T12:39:35"
+  },
+  {
+    "counter": 107,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058780004
+    },
+    "timestamp": "2026-04-13T12:39:40"
+  },
+  {
+    "counter": 108,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058785018
+    },
+    "timestamp": "2026-04-13T12:39:45"
+  },
+  {
+    "counter": 109,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058790029
+    },
+    "timestamp": "2026-04-13T12:39:50"
+  },
+  {
+    "counter": 110,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058795039
+    },
+    "timestamp": "2026-04-13T12:39:56"
+  },
+  {
+    "counter": 111,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058800047
+    },
+    "timestamp": "2026-04-13T12:40:01"
+  },
+  {
+    "counter": 112,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058805076
+    },
+    "timestamp": "2026-04-13T12:40:06"
+  },
+  {
+    "counter": 113,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058810083
+    },
+    "timestamp": "2026-04-13T12:40:11"
+  },
+  {
+    "counter": 114,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058815093
+    },
+    "timestamp": "2026-04-13T12:40:16"
+  },
+  {
+    "counter": 115,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058820106
+    },
+    "timestamp": "2026-04-13T12:40:21"
+  },
+  {
+    "counter": 116,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058825114
+    },
+    "timestamp": "2026-04-13T12:40:26"
+  },
+  {
+    "counter": 117,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058830120
+    },
+    "timestamp": "2026-04-13T12:40:31"
+  },
+  {
+    "counter": 118,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058835125
+    },
+    "timestamp": "2026-04-13T12:40:36"
+  },
+  {
+    "counter": 119,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058840134
+    },
+    "timestamp": "2026-04-13T12:40:41"
+  },
+  {
+    "counter": 120,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058845156
+    },
+    "timestamp": "2026-04-13T12:40:46"
+  },
+  {
+    "counter": 121,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058850165
+    },
+    "timestamp": "2026-04-13T12:40:51"
+  },
+  {
+    "counter": 122,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058855174
+    },
+    "timestamp": "2026-04-13T12:40:56"
+  },
+  {
+    "counter": 123,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058860182
+    },
+    "timestamp": "2026-04-13T12:41:01"
+  },
+  {
+    "counter": 124,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058865190
+    },
+    "timestamp": "2026-04-13T12:41:06"
+  },
+  {
+    "counter": 125,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058870195
+    },
+    "timestamp": "2026-04-13T12:41:11"
+  },
+  {
+    "counter": 126,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058875203
+    },
+    "timestamp": "2026-04-13T12:41:16"
+  },
+  {
+    "counter": 127,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058880211
+    },
+    "timestamp": "2026-04-13T12:41:21"
+  },
+  {
+    "counter": 128,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058885222
+    },
+    "timestamp": "2026-04-13T12:41:26"
+  },
+  {
+    "counter": 129,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058890234
+    },
+    "timestamp": "2026-04-13T12:41:31"
+  },
+  {
+    "counter": 130,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058895240
+    },
+    "timestamp": "2026-04-13T12:41:36"
+  },
+  {
+    "counter": 131,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058900266
+    },
+    "timestamp": "2026-04-13T12:41:41"
+  },
+  {
+    "counter": 132,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058905279
+    },
+    "timestamp": "2026-04-13T12:41:46"
+  },
+  {
+    "counter": 133,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058910284
+    },
+    "timestamp": "2026-04-13T12:41:51"
+  },
+  {
+    "counter": 134,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058915292
+    },
+    "timestamp": "2026-04-13T12:41:56"
+  },
+  {
+    "counter": 135,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058920299
+    },
+    "timestamp": "2026-04-13T12:42:01"
+  },
+  {
+    "counter": 136,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058925307
+    },
+    "timestamp": "2026-04-13T12:42:06"
+  },
+  {
+    "counter": 137,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058930314
+    },
+    "timestamp": "2026-04-13T12:42:11"
+  },
+  {
+    "counter": 138,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058935322
+    },
+    "timestamp": "2026-04-13T12:42:16"
+  },
+  {
+    "counter": 139,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058940330
+    },
+    "timestamp": "2026-04-13T12:42:21"
+  },
+  {
+    "counter": 140,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058945343
+    },
+    "timestamp": "2026-04-13T12:42:26"
+  },
+  {
+    "counter": 141,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058950352
+    },
+    "timestamp": "2026-04-13T12:42:31"
+  },
+  {
+    "counter": 142,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058955363
+    },
+    "timestamp": "2026-04-13T12:42:36"
+  },
+  {
+    "counter": 143,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058960370
+    },
+    "timestamp": "2026-04-13T12:42:41"
+  },
+  {
+    "counter": 144,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058965379
+    },
+    "timestamp": "2026-04-13T12:42:46"
+  },
+  {
+    "counter": 145,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058970387
+    },
+    "timestamp": "2026-04-13T12:42:51"
+  },
+  {
+    "counter": 146,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058975392
+    },
+    "timestamp": "2026-04-13T12:42:56"
+  },
+  {
+    "counter": 147,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058980403
+    },
+    "timestamp": "2026-04-13T12:43:01"
+  },
+  {
+    "counter": 148,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776058985410
+    },
+    "timestamp": "2026-04-13T12:43:06"
+  },
+  {
+    "counter": 149,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776059019178
+    },
+    "timestamp": "2026-04-13T12:43:10"
+  },
+  {
+    "counter": 150,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776059583137
+    },
+    "timestamp": "2026-04-13T12:53:03"
+  },
+  {
+    "counter": 151,
+    "data": {
+      "androidVersion": "16",
+      "cellInfo": [
+        {
+          "cellIdentity": {
+            "cellIdentity": 47108,
+            "earfcn": 103,
+            "mcc": "310",
+            "mnc": "260",
+            "pci": 0,
+            "tac": 8514
+          },
+          "networkType": "LTE",
+          "signalStrength": {
+            "asuLevel": 99,
+            "cqi": 2147483647,
+            "rsrp": 2147483647,
+            "rsrq": 2147483647,
+            "rssi": 2147483647,
+            "rssnr": 2147483647,
+            "timingAdvance": 2147483647
+          }
+        }
+      ],
+      "deviceId": "sdk_gphone64_x86_64",
+      "location": {
+        "accuracy": 5,
+        "altitude": 5,
+        "latitude": 37.421998333333335,
+        "longitude": -122.084,
+        "provider": "gps",
+        "timestamp": 1776058427673
+      },
+      "timestamp": 1776059588196
+    },
+    "timestamp": "2026-04-13T12:53:08"
+  }
+]
